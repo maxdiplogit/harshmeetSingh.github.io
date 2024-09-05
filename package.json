@@ -21,5 +21,6 @@
 	},
 	"dependencies": {
 		"sharp": "^0.33.5"
-	}
+	},
+	"packageManager": "pnpm"
 }
