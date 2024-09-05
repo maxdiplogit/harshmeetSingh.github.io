@@ -7,5 +7,6 @@ export default defineConfig({
 	integrations: [tailwind()],
 	devToolbar: {
 		enabled: false
-	}
+	},
+	site: "https://maxdiplogit.github.io",
 });
