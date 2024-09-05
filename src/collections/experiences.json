@@ -1,0 +1,23 @@
+[
+	{
+		"dates": "Feb 2024 · Present",
+		"role": "Open Source Contributor",
+		"company": "Lightdash",
+		"description": "Active open source contributor at Lightdash",
+		"logo": "/assets/images/experiences/lightdashLogo.ico"
+	},
+	{
+		"dates": "Jan 2023 · May 2024",
+		"role": "Front-end Engineer",
+		"company": "Smart 24x7 Response Services",
+		"description": "Worked as a full stack developer for various projects of their's",
+		"logo": "/assets/images/experiences/smartLogo.ico"
+	},
+	{
+		"dates": "August 2022 · December 2022 ",
+		"role": "Full Stack Developer",
+		"company": "Lattice Innovations",
+		"description": "Worked as a full stack developer on their e-commerce platform",
+		"logo": "/assets/images/experiences/latticeLogo.ico"
+	}
+]

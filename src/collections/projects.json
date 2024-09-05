@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Blog Application",
+		"description": "A simple blog application",
+		"image": "/assets/images/projects/blogApp.png",
+		"url": "https://blog-app-frontend-amber.vercel.app/"
+	},
+	{
+		"name": "Chat Application",
+		"description": "Created a simple realtime chat application.",
+		"image": "/assets/images/projects/chatApp.png",
+		"url": "https://www.github.com/maxdiplogit/chat-app-backend"
+	}
+]

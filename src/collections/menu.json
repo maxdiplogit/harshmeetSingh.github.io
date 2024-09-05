@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Home",
+		"url": "/"
+	},
+	{
+		"name": "Posts",
+		"url": "/posts"
+	},
+	{
+		"name": "Projects",
+		"url": "/projects"
+	},
+	{
+		"name": "About",
+		"url": "/about"
+	},
+	{
+		"name": "Resume",
+		"url": "https://docs.google.com/document/d/1QW3s0Q2W4IHmFAiTTZjxRtXQ9ugjQH5n7igGtMK-mts/export?format=pdf"
+	}
+]
