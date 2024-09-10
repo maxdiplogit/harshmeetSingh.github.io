@@ -8,5 +8,6 @@ export default defineConfig({
 	devToolbar: {
 		enabled: false
 	},
-	site: 'https://maxdiplogit.github.io'
+	site: 'https://maxdiplogit.github.io',
+	base: 'harshmeetSingh.github.io'
 });
