@@ -9,5 +9,4 @@ export default defineConfig({
 		enabled: false
 	},
 	site: 'https://maxdiplogit.github.io',
-	base: 'harshmeetSingh.github.io'
 });
